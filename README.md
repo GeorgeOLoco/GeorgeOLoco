@@ -13,6 +13,6 @@ I'm a passionate developer working on several open-source projects. Welcome to m
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeOLoco&layout=compact&theme=tokyonight)
 
 ## 📫 How to Reach Me:
-- Email: [email@example.com](mailto:email@example.com)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/yourprofile)
+- Email: [gpittakis@gmail.com](mailto:gpittakis@gmail.com)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/gpittakis)
 
