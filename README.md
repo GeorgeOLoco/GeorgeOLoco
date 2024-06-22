@@ -14,5 +14,5 @@ I'm a passionate developer working on several open-source projects. Welcome to m
 
 ## 📫 How to Reach Me:
 - Email: [gpittakis@gmail.com](mailto:gpittakis@gmail.com)
-- LinkedIn: [LinkedIn](www.linkedin.com/in/gpittakis)
+- LinkedIn: [LinkedIn]([www.linkedin.com/in/gpittakis](https://www.linkedin.com/in/gpittakis/))
 
