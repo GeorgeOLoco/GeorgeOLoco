@@ -1,6 +1,6 @@
-# Hello 👋, I'm [Your GitHub Name]!
+# Hello 👋, I'm Giorgos!
 
-I'm a passionate developer working on several open-source projects. Welcome to my GitHub profile!
+I'm a passionate software developer working on several open-source projects. Welcome to my GitHub profile!
 
 ## 🛠 Skills and Tools:
 - Languages: JavaScript, Python, C++
